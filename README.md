@@ -50,4 +50,4 @@ Redux Thunk is used in this project to manage asynchronous actions. This is impo
 # React Router DOM
 React Router DOM is used for routing within the application. It allows you to navigate between the main page and the basket page seamlessly.
 
-
+!! Can be improved  with searh box, more basket features and user friendly basket icons..just wanted to try how to thunk middleware works.. See you next! :)
