@@ -4,6 +4,10 @@ API url : `https://fakestoreapi.com/`
 - This is a simple online store application built using React, Redux Thunk, and React Router DOM.
 - It provides a basic structure for a main page where users can browse products and a shopping basket that counts the selected products and calculates the total price.
 
+#Preview
+
+https://github.com/disconnectuss/MiniStore-ReduxThunk/assets/129686850/bbbcdff4-2a09-43f3-8aca-858294d26e8c
+
 
 ## Prerequisites
 
