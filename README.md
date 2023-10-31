@@ -24,7 +24,7 @@ To get this project up and running on your local machine, follow these steps:
    git clone `https://github.com/your-username/mini-online-store.git`
    cd mini-online-store
    npm install
-   npm start
+   npm run dev
 
 # Technologies Used
 - React: A JavaScript library for building user interfaces.
