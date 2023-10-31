@@ -46,4 +46,4 @@ Redux Thunk is used in this project to manage asynchronous actions. This is impo
 # React Router DOM
 React Router DOM is used for routing within the application. It allows you to navigate between the main page and the basket page seamlessly.
 
-# MiniStore-ReduxThunk
+
